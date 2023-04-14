@@ -8,6 +8,10 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
+//Added to see changes
+//Line2
+//LINE 3
+// check me LIne 4
 public class MainActivity extends AppCompatActivity {
 
     private Button register;
