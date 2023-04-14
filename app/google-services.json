@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313779391472",
+    "project_id": "fir-demo-661a0",
+    "storage_bucket": "fir-demo-661a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313779391472:android:e4af1f1d2a7f9fd9d2ab35",
+        "android_client_info": {
+          "package_name": "com.devaman.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313779391472-6ntdqqp1bckmtda1dtipmm6en9ckmm0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5dDsjqILzmSw9IJB_PegGHvdqtIGZ8yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313779391472-6ntdqqp1bckmtda1dtipmm6en9ckmm0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
